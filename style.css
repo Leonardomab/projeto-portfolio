@@ -202,9 +202,9 @@ footer{
 /* media queries */
 @media (min-width: 700px){
   :root{
-    --bj-url: url(.bg-desktop.jpg);
+    --bj-url: url(./bg-desktop.jpg);
   }
   .light{
-    --bg-url: url(.bj-desktop-light.jpg);
+    --bg-url: url(./bj-desktop-light.jpg);
   }
 }
